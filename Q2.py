@@ -4,7 +4,7 @@ f_name = f.read()
 
 database = 'university'
 user = 'postgres'
-password = 'sidjadhav0602'
+password = '**********'
 port = '5432'
 host = 'localhost'
 
