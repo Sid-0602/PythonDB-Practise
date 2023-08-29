@@ -6,7 +6,7 @@ name = f.read()
 
 database = 'flis'
 user = 'postgres'
-password = 'sidjadhav0602'
+password = '************'
 port = '5432'
 host = 'localhost'
 
